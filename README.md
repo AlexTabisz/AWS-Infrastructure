@@ -1,3 +1,6 @@
+AWS Infrastructure
+This is a cloud architecture that I designed and deployed on AWS. The main purpose for this project was to help the company automate a few python scripts and make sure it runs and works daily
+
 1. Used Terraform as IaC to deploy AWS infrastructure, including VPC, EC2, and all its components
 
 2. Created s3 bucket manually to upload logs from python script
